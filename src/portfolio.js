@@ -46,8 +46,8 @@ const header = {
     {
       name: 'the_spot',
       description:
-        'A Full-Stack Mobile App allowing Users to get a feed of posts, edit posts, upload new posts with images, user auth. Developed with Adroid Studio and Expo',
-      stack: ['React-Native', 'Expo', 'MongoDB'],
+        'A Full-Stack Mobile App allowing Users to get a feed of posts, edit posts, upload new posts with images, user auth. Developed with Android Studio and Expo',
+      stack: ['React-Native', 'Expo', 'Express', 'MongoDB'],
       sourceCode: 'https://github.com/basilspice/TheSpot',
       livePreview: 'https://expo.dev/@basilspice/projects/TheSpot'
     },
