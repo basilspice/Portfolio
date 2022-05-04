@@ -20,7 +20,7 @@ const header = {
   const projects = [
     // projects section
     {
-      name: 'Portfolio',
+      name: 'Portfolio V1',
       description:
         'My first ever attempt at building a webpage. I created this page using just HTML and JS after having only been using the Languages for about 3 weeks.',
       stack: ['HTML', 'JS'],
@@ -46,7 +46,7 @@ const header = {
     {
       name: 'the_spot',
       description:
-        'A Full-Stack Mobile App allowing Users to get a feed of posts, edit posts, upload new posts with images, create an account.',
+        'A Full-Stack Mobile App  published on the Google Play Store.The Spot allows Users to get a feed of posts, edit posts, upload new posts with images, and create an account.',
       stack: ['React-Native', 'Expo', 'Express', 'MongoDB'],
       sourceCode: 'https://github.com/basilspice/TheSpot',
       livePreview: 'https://play.google.com/store/apps/details?id=com.basilspice.thespot'
