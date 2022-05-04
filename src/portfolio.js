@@ -22,7 +22,7 @@ const header = {
     {
       name: 'Portfolio',
       description:
-        'My first ever attempt at building a webpage. I created this page using just HTML and JS after having only been using the Languages for about 3 weeks',
+        'My first ever attempt at building a webpage. I created this page using just HTML and JS after having only been using the Languages for about 3 weeks.',
       stack: ['HTML', 'JS'],
       sourceCode: 'https://github.com/basilspice/Portfolio-1',
       livePreview: 'https://basilspice.github.io/Portfolio-1/',
@@ -30,7 +30,7 @@ const header = {
     {
       name: 'Rick and Morty API',
       description:
-        'I built this Front-End react app in under 5 days that enables the App to make calls to an API and return information in a formatted card',
+        'I built this Front-End react app in under 5 days that enables the App to make calls to an API and return information in a formatted card.',
       stack: ['SASS', 'TypeScript', 'React'],
       sourceCode: 'https://github.com/basilspice/Project-2',
       livePreview: 'https://basilspice.github.io/Project-2/',
@@ -38,7 +38,7 @@ const header = {
     {
       name: 'Hey, Neighbour',
       description:
-        'A Full-Stack application created with a team of four. Built in a 4 day sprint, this project had rotating project management roles, as well has utilized Githubs KANBAN for roles and assignments. This App has full CRUD and lets Users create listings for items as well as leave comments. ',
+        'A Full-Stack application created with a team of four. Built in a 4 day sprint, this project had rotating project management roles. We also utilized Githubs KANBAN for roles and assignments. This App has full CRUD and lets Users create listings for items as well as leave comments. ',
       stack: ['MONGO', 'Express', 'React', 'Node'],
       sourceCode: 'https://github.com/SABR-GA',
       livePreview: 'https://sabr-ga.github.io/hey-neighbor-client/',
@@ -46,10 +46,10 @@ const header = {
     {
       name: 'the_spot',
       description:
-        'A Full-Stack Mobile App allowing Users to get a feed of posts, edit posts, upload new posts with images, user auth. Developed with Android Studio and Expo',
+        'A Full-Stack Mobile App allowing Users to get a feed of posts, edit posts, upload new posts with images, create an account.',
       stack: ['React-Native', 'Expo', 'Express', 'MongoDB'],
       sourceCode: 'https://github.com/basilspice/TheSpot',
-      livePreview: 'https://expo.dev/@basilspice/projects/TheSpot'
+      livePreview: 'https://play.google.com/store/apps/details?id=com.basilspice.thespot'
     },
   ]
   
